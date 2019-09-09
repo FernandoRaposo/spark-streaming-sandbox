@@ -4,7 +4,8 @@ Sandbox fo Spark Streaming studies
 ## Setup and Running
 
 1. Clone this repo
-2. Install all dependencies and build docker image with:
+2. Install Docker ([Docs](https://docs.docker.com/install/))
+3. Install all dependencies and build docker image with:
 ```
 make docker-build
 ```
